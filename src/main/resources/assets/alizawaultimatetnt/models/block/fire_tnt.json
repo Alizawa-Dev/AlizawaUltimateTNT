@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "alizawaultimatetnt:blocks/fire_tnt_bottom",
+    "up": "alizawaultimatetnt:blocks/fire_tnt_top",
+    "north": "alizawaultimatetnt:blocks/fire_tnt_side",
+    "south": "alizawaultimatetnt:blocks/fire_tnt_side",
+    "east": "alizawaultimatetnt:blocks/fire_tnt_side",
+    "west": "alizawaultimatetnt:blocks/fire_tnt_side"
+  }
+}

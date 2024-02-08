@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "232",
+    "313",
+    "222"
+  ],
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    "2": {
+      "item": "minecraft:air"
+    },
+    "3": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result":
+  {
+    "item": "alizawaultimatetnt:air_defence_tnt",
+    "count": 1
+  }
+}

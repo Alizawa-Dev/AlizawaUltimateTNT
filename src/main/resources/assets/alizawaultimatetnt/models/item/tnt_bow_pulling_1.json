@@ -1,0 +1,6 @@
+{
+  "parent": "alizawaultimatetnt:item/tnt_bow",
+  "textures": {
+    "layer0": "alizawaultimatetnt:items/tnt_bow_pulling_1"
+  }
+}

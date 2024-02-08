@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "212",
+    "121",
+    "212"
+  ],
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:sand"
+    },
+    "2": {
+      "item": "alizawaultimatetnt:dragon_breath_gunpowder"
+    }
+  },
+  "result":
+  {
+    "item": "alizawaultimatetnt:dragon_breath_tnt",
+    "count": 1
+  }
+}

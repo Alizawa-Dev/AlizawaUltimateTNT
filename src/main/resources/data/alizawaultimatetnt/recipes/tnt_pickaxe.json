@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "111",
+    "232",
+    "232"
+  ],
+  "key":
+  {
+    "1":
+    {
+      "item": "alizawaultimatetnt:fire_tnt"
+    },
+    "2": {
+      "item": "minecraft:air"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "alizawaultimatetnt:tnt_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "alizawaultimatetnt:blocks/dragon_breath_tnt_top",
+    "up": "alizawaultimatetnt:blocks/dragon_breath_tnt_top",
+    "north": "alizawaultimatetnt:blocks/dragon_breath_tnt_side",
+    "south": "alizawaultimatetnt:blocks/dragon_breath_tnt_side",
+    "east": "alizawaultimatetnt:blocks/dragon_breath_tnt_side",
+    "west": "alizawaultimatetnt:blocks/dragon_breath_tnt_side"
+  }
+}

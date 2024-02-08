@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    }
+  ],
+  "result":
+  {
+    "item": "alizawaultimatetnt:dragon_breath_gunpowder",
+    "count": 5
+  }
+}

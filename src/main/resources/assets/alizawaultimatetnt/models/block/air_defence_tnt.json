@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "alizawaultimatetnt:blocks/air_defence_tnt_bottom",
+    "up": "alizawaultimatetnt:blocks/air_defence_tnt_top",
+    "north": "alizawaultimatetnt:blocks/air_defence_tnt_side",
+    "south": "alizawaultimatetnt:blocks/air_defence_tnt_side",
+    "east": "alizawaultimatetnt:blocks/air_defence_tnt_side",
+    "west": "alizawaultimatetnt:blocks/air_defence_tnt_side"
+  }
+}

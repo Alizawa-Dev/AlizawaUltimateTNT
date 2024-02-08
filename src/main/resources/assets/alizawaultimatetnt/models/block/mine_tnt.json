@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "alizawaultimatetnt:blocks/mine_tnt_bottom",
+    "up": "alizawaultimatetnt:blocks/mine_tnt_top",
+    "north": "alizawaultimatetnt:blocks/mine_tnt_side",
+    "south": "alizawaultimatetnt:blocks/mine_tnt_side",
+    "east": "alizawaultimatetnt:blocks/mine_tnt_side",
+    "west": "alizawaultimatetnt:blocks/mine_tnt_side"
+  }
+}
